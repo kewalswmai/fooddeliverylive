@@ -1,0 +1,51 @@
+/* navbar section  */
+
+#navbar {
+    flex-direction: column;
+}
+
+#navbar ul li a {
+    font-size: 1.1rem;
+    padding: 0px 6px;
+}
+
+#home {
+    height: 449px;
+    padding: 45px 2px 49px;
+}
+
+#home p {
+    font-size: 13px;
+}
+
+
+/* services section*/
+
+#services {
+    flex-direction: column;
+}
+
+
+/* clent section*/
+
+#clients {
+    overflow: hidden;
+    flex-wrap: wrap;
+}
+
+#clients img {
+    width: 23px;
+    padding: 0px 23px;
+    height: auto;
+}
+
+#sbt {
+    margin: auto;
+}
+
+
+/* Utility classes */
+
+.h-primary {
+    font-size: 2.1rem;
+}
